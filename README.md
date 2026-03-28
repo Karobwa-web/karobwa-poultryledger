@@ -341,9 +341,9 @@ Karobwa Agritech
 Agricultural Technology Solutions for Smarter Farming
 
 Project: PoultryLedger
-Email: your-email@example.com
+Email: obafarmz@gmail.com
 
-GitHub: your-github-username
+GitHub: Karobwa-web
 
 ⭐ Final Note
 
